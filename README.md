@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="NeuroGenomics Research Lab Banner" />
+</p>
+
 # 🧠🧬 NeuroGenomics Research Lab
 ### Brain-Computer Interface (BCI) & Genome Sequencing Initiative
 
