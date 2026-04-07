@@ -1,231 +1,318 @@
-# 📘 Research Pre-Reading & Literature Review Guide
-## Brain-Computer Interface (BCI) & Genome Sequencing Projects
+# 🧠🧬 NeuroGenomics Research Lab
+### Brain-Computer Interface (BCI) & Genome Sequencing Initiative
 
-**Author:** Anand Kumar - Student Research Lead
+![Repo Size](https://img.shields.io/github/repo-size/Anand-Ambastha/neurogenomics-research-lab)
+![Last Commit](https://img.shields.io/github/last-commit/Anand-Ambastha/neurogenomics-research-lab)
+![Issues](https://img.shields.io/github/issues/Anand-Ambastha/neurogenomics-research-lab)
+![Contributors](https://img.shields.io/github/contributors/Anand-Ambastha/neurogenomics-research-lab)
+
+---
+
+**Author & Lead:** Anand Kumar  
+**Role:** Student Research Lead  
+
+---
+
+## 🧪 Status
+
+- Phase: Literature Review / Initial Development  
+- Teams: 4  
+- Progress: Ongoing  
 
 ---
 
 ## 📌 Overview
 
-This repository provides a **structured pre-reading and literature review framework** for research teams working on:
+A structured research lab initiative focused on **Brain-Computer Interface (BCI)** and **Computational Genomics**, aimed at:
 
-- Brain-Computer Interface (BCI)
-- Genome Sequencing / Computational Genomics
-
-It ensures all participants reach a **minimum research-ready level** before implementation.
+- Building reproducible ML pipelines  
+- Developing research-grade models  
+- Producing publishable results  
 
 ---
 
 ## 🎯 Objectives
 
-Each team must be able to:
-
-- Explain the problem statement clearly
-- Understand dataset structure (input/output)
-- Build a baseline model or pipeline
-- Evaluate results using proper metrics
-- Identify **2–3 research gaps**
+- Develop research-oriented thinking  
+- Work with real-world datasets  
+- Build baseline → improve → evaluate  
+- Maintain strict documentation  
+- Ensure measurable results  
 
 ---
 
-## 🧠 BCI / EEG Teams (Group 1 & 2)
+## 🧠 Project Domains
 
-### 📖 Fundamentals
+### 1. BCI (Brain-Computer Interface)
+- EEG Signal Processing  
+- Cross-subject Generalization  
+- Inner Speech Decoding  
 
-- EEG signals (brain electrical activity)
-- Channels & electrode placement
-- Sampling frequency (Hz)
-- Brain waves:
-  - Alpha (8–13 Hz)
-  - Beta (13–30 Hz)
-  - Theta (4–8 Hz)
-
-- Noise sources:
-  - Eye blink (EOG)
-  - Muscle activity (EMG)
+### 2. Genome Sequencing
+- Variant Prioritization (ML-based)  
+- Genome Assembly Optimization  
 
 ---
 
-### 📚 Tutorials
+## 👥 Team Structure
 
-#### MNE EEG Library
-https://mne.tools/stable/auto_tutorials/intro/10_overview.html
-
-#### EEG Preprocessing
-https://mne.tools/stable/auto_tutorials/preprocessing/30_filtering_resampling.html
-
-#### PyTorch Basics
-https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+- 4 Teams working in parallel  
+- Each team owns one research problem  
+- Weekly reporting is **mandatory**  
+- Performance is evaluated weekly  
 
 ---
 
-### 📄 Papers
-
-#### 1. Advances in EEG-based BCI
-https://arxiv.org/abs/2007.16133
-
-#### 2. EEGNet
-https://arxiv.org/abs/1611.08024
-
-#### 3. Cross-Subject EEG Generalization
-https://arxiv.org/abs/2104.01233
-
-#### 4. Inner Speech Decoding
-https://arxiv.org/abs/2008.01786
-
----
-
-### ✅ Expected Outcome
-
-- Load and preprocess EEG data  
-- Train CNN/LSTM model  
-- Understand generalization issue  
-
----
-
-## 🧬 Genome Teams (Group 3 & 4)
-
-### 📖 Fundamentals
-
-- DNA structure (A, T, G, C)  
-- Genes and genome  
-- Variants (mutations)  
-
-#### Group 3 (Variant Focus)
-- SNP  
-- Insertions / deletions  
-- Pathogenic vs benign  
-
-#### Group 4 (Assembly Focus)
-- Sequencing reads  
-- Short vs long reads  
-- Genome assembly  
-
----
-
-### 📚 Tutorials
-
-#### NCBI Genome Guide
-https://www.ncbi.nlm.nih.gov/books/NBK20263/
-
-#### Variant Basics
-https://www.genome.gov/genetics-glossary/Variant
-
-#### Scikit-learn
-https://scikit-learn.org/stable/tutorial/basic/tutorial.html
-
----
-
-### 📄 Papers
-
-#### 1. Deep Learning in Genomics
-https://www.nature.com/articles/s41576-019-0122-6
-
-#### 2. DeepVariant
-https://www.nature.com/articles/nbt.4235
-
-#### 3. SPAdes Genome Assembly
-https://genome.cshlp.org/content/22/5/824
-
-#### 4. AI in Genome Sequencing
-https://www.nature.com/articles/s41587-021-01139-4
-
----
-
-### 📂 Data Formats
-
-- FASTQ → Raw reads  
-- VCF → Variant data  
-- SAM/BAM → Alignment  
-
----
-
-### ✅ Expected Outcome
-
-- Understand sequencing workflow  
-- Build ML model (Group 3)  
-- Understand assembly pipeline (Group 4)  
-
----
-
-## ⚙️ Common Requirements
-
-### 🧑‍💻 Programming
-https://docs.python.org/3/tutorial/  
-https://pandas.pydata.org/docs/getting_started/index.html  
-
-### 🛠 Tools
-- GitHub  
-- Matplotlib  
-
----
-
-## 📅 Timeline (15 Days)
-
-### Days 1–5
-- Tutorials + basics  
-
-### Days 6–10
-- Read 4–6 papers  
-
-### Days 11–15
-- Prepare outputs  
-
----
-
-## 📄 Deliverables
-
-### Literature Review Table
-
-| Paper | Method | Dataset | Result | Limitation |
-|------|--------|--------|--------|------------|
-
-### Research Gaps
-- Identify 2–3 limitations  
-
-### Proposed Approach
-- Define solution (4–5 lines)  
-
----
-
-## ⚠️ Important
-
-- Do NOT start advanced models early  
-- Focus on:
-  - Dataset understanding  
-  - Baseline implementation  
-
----
-
-## 🚀 Final Note
-
-This stage determines:
-- Project quality  
-- Research depth  
-- Publication potential  
-
-Skipping this will lead to weak outcomes.
-
----
-
-## 📁 Suggested Repository Structure
+## 📁 Repository Structure
 
 ```
-project-root/
+neurogenomics-research-lab/
 │
 ├── README.md
 ├── datasets/
 ├── notebooks/
 ├── src/
 ├── results/
+├── reports/
 └── papers/
 ```
 
 ---
 
+## ⚙️ Setup Instructions
+
+### Clone Repository
+```
+git clone https://github.com/Anand-Ambastha/neurogenomics-research-lab.git
+cd neurogenomics-research-lab
+```
+
+### Create Virtual Environment
+```
+python -m venv venv
+```
+
+Activate:
+```
+venv\Scripts\activate        # Windows
+source venv/bin/activate     # Linux/Mac
+```
+
+### Install Dependencies
+```
+pip install -r requirements.txt
+```
+
+---
+
+## 📦 Requirements
+
+Core libraries:
+
+- numpy  
+- pandas  
+- matplotlib  
+- scikit-learn  
+- torch  
+- mne  
+
+---
+
+## 🔄 Git Workflow (STRICT)
+
+### 1. Create Branch (MANDATORY)
+```
+git checkout -b feature/<your-name>
+```
+
+---
+
+### 2. Sync with Main
+```
+git pull origin main
+```
+
+---
+
+### 3. Add Changes
+```
+git add .
+```
+
+---
+
+### 4. Commit
+```
+git commit -m "clear and meaningful message"
+```
+
+---
+
+### 5. Push
+```
+git push origin feature/<your-name>
+```
+
+---
+
+### 6. Pull Request
+- Go to repo  
+- Click **Compare & Pull Request**  
+
+---
+
+## 🚫 Strict Git Rules
+
+- ❌ No direct push to `main`  
+- ❌ No untested code  
+- ❌ No vague commit messages  
+- ✅ Use branches + PR only  
+
+---
+
+## 📊 Weekly Work Protocol (STRICT)
+
+### 📄 Report File
+```
+reports/week-X.md
+```
+
+---
+
+### 📌 Mandatory Template
+
+```markdown
+# Weekly Report
+
+## Week:
+## Team:
+## Members:
+
+---
+
+## Objectives
+- 
+
+---
+
+## Work Completed
+- 
+
+---
+
+## Individual Contributions
+| Name | Work |
+|------|------|
+|      |      |
+
+---
+
+## Results
+- Metrics:
+- Graphs:
+
+---
+
+## Issues
+- 
+
+---
+
+## Fixes Applied
+- 
+
+---
+
+## Improvements
+- 
+
+---
+
+## Next Plan
+- 
+```
+
+---
+
+## 🧪 Research Workflow (MANDATORY FLOW)
+
+### Phase 1: Literature Review (15 Days)
+- Read 4–6 papers  
+- Extract:
+  - Method  
+  - Dataset  
+  - Limitations  
+
+---
+
+### Phase 2: Dataset Understanding
+- Load dataset  
+- Analyze structure  
+- Perform preprocessing  
+
+---
+
+### Phase 3: Baseline Model
+- Implement simple model  
+- Generate initial results  
+
+---
+
+### Phase 4: Improvement
+- Optimize model  
+- Try new approaches  
+
+---
+
+### Phase 5: Evaluation
+- Compare baseline vs improved  
+- Use proper metrics  
+
+---
+
+## 📘 Pre-Reading & Resources
+
+### 🧠 BCI
+
+Tutorials:
+- https://mne.tools/stable/auto_tutorials/intro/10_overview.html  
+- https://mne.tools/stable/auto_tutorials/preprocessing/30_filtering_resampling.html  
+- https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html  
+
+Papers:
+- https://arxiv.org/abs/2007.16133  
+- https://arxiv.org/abs/1611.08024  
+- https://arxiv.org/abs/2104.01233  
+- https://arxiv.org/abs/2008.01786  
+
+---
+
+### 🧬 Genome
+
+Tutorials:
+- https://www.ncbi.nlm.nih.gov/books/NBK20263/  
+- https://www.genome.gov/genetics-glossary/Variant  
+- https://scikit-learn.org/stable/tutorial/basic/tutorial.html  
+
+Papers:
+- https://www.nature.com/articles/s41576-019-0122-6  
+- https://www.nature.com/articles/nbt.4235  
+- https://genome.cshlp.org/content/22/5/824  
+- https://www.nature.com/articles/s41587-021-01139-4  
+
+---
+
+## 📂 Dataset Rules
+
+- ❌ No datasets >100MB on GitHub  
+- ✅ Use external links  
+- ✅ Store preprocessing in `/src`  
+
+---
+
 ## 📊 Evaluation Metrics
 
-### BCI Tasks
+### BCI
 - Accuracy  
 - F1-score  
 - Confusion Matrix  
@@ -238,37 +325,77 @@ project-root/
 - ROC-AUC  
 
 ### Genome (Assembly)
-- N50 score  
+- N50  
 - Runtime  
-- Memory usage  
+- Memory  
 - Error rate  
 
 ---
 
-## 🧪 Minimum Implementation Requirement
+## 📄 Deliverables
 
-Each team must:
+Each team must provide:
 
-- Run dataset successfully  
-- Build baseline model/pipeline  
-- Show at least one improvement  
-- Generate 2–3 result graphs  
+- Working code  
+- Result graphs  
+- Weekly reports  
+- Final report  
+- (Optional) research paper  
+
+---
+
+## 🧪 Minimum Requirements
+
+- Dataset runs successfully  
+- Baseline model implemented  
+- At least one improvement  
+- 2–3 graphs generated  
 
 ---
 
 ## 🚧 Common Mistakes
 
-- Jumping to advanced models without basics  
+- Jumping to advanced models early  
 - Ignoring preprocessing  
-- Not evaluating properly  
 - No baseline comparison  
+- Poor documentation  
 
 ---
 
-## 🧭 Final Instruction
+## 🧭 Rules
 
-- Complete reading within **5 days**  
-- Complete literature review within **15 days**  
-- Only then start implementation  
+- Reading: **5 days**  
+- Literature review: **15 days**  
+- Weekly report compulsory  
+- No random experimentation  
 
----# neurogenomics-research-lab
+---
+
+## 🚀 Final Goal
+
+- Build research-grade projects  
+- Produce publishable work  
+- Strengthen technical profiles  
+
+---
+
+## ⚠️ Final Note
+
+This is not a casual project.
+
+If you:
+- Don’t follow structure  
+- Don’t submit reports  
+- Don’t contribute  
+
+👉 You will be removed from the project  
+
+---
+
+## 📬 Contact
+
+**Anand Kumar**  
+Student Research Lead  
+NeuroGenomics Research Lab  
+
+---
