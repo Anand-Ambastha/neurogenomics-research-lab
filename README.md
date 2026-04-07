@@ -11,7 +11,7 @@
 **Author & Lead:** Anand Kumar  
 **Role:** Student Research Lead  
 
-**Supported by:** Dr. Yugnanda Malhotra  
+**Supported by:**  Dr. Yugnanda Malhotra  
 Dean, R&D  
 BVP College of Engineering  
 ---
