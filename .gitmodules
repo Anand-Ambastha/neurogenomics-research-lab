@@ -1,0 +1,3 @@
+[submodule "Genome"]
+	path = Genome
+	url = https://github.com/sammyyakk/genome-sequencing.git
