@@ -1,6 +1,3 @@
-[submodule "Genome"]
-	path = Genome
-	url = https://github.com/sammyyakk/genome-sequencing.git
 [submodule "PS1BCI"]
 	path = PS1BCI
 	url = https://github.com/aanyyagupta/DARWIN.git
