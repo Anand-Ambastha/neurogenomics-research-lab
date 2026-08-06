@@ -1,3 +1,15 @@
 [submodule "Genome"]
 	path = Genome
 	url = https://github.com/sammyyakk/genome-sequencing.git
+[submodule "PS1BCI"]
+	path = PS1BCI
+	url = https://github.com/aanyyagupta/DARWIN.git
+[submodule "PS2BCI"]
+	path = PS2BCI
+	url = https://github.com/Garvv-Mittal/bci-paper.git
+[submodule "PS1Genome"]
+	path = PS1Genome
+	url = https://github.com/adtyapnda/variant-prioritization-team1.git
+[submodule "PS2Genome"]
+	path = PS2Genome
+	url = https://github.com/sammyyakk/genome-sequencing.git
